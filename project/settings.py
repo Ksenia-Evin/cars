@@ -25,7 +25,7 @@ SECRET_KEY = '!iclfrrx9n&4gqt@myqli*cl52!^+)0n1248_f-!$cpg!rihtf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
