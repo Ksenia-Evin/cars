@@ -1,0 +1,16 @@
+body {
+    background: url(../css/car.jpg);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+form {
+    margin: 50px;
+    
+}
+
+form input {
+    font-size: 30px;
+    width: 900px;
+}
